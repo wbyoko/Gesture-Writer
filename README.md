@@ -15,11 +15,11 @@ Starting
 
 The gesture start - place one finger in the south quadrant. and then tap three fingers in the north quadrant. then release all fingers. This should start the writer. 
 
-Using the menu.
-
+Using the menu
+	Select 'GW Start option'
 
 How to write
 ------------
 http://www.youtube.com/watch?v=q3OuCR0EpGo
 
-Uses the current layout in (8pen.jpg)
+Uses the current layout in 8pen.jpg
