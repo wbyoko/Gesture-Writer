@@ -21,3 +21,8 @@ How to Write
 http://www.youtube.com/watch?v=q3OuCR0EpGo
 
 Uses the current layout in 8pen.jpg
+
+
+Star it if you like it
+----------------------
+probably start updating on the day.
